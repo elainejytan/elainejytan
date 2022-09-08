@@ -1,3 +1,25 @@
+/*
+How many hours did you spend on this assignment?:
+6 to 8 hours
+
+What part of the assignment did you spend the most time on?:
+
+the HTML portion
+
+How comfortable did you feel with this assignment? (1-5):
+
+4
+
+Is there anything in this code that you feel pleased about?:
+
+the buttons make it really nicer. + the collapse of the input box after user key in name is cool. 
+
+What's one aspect of your code you would like specific, elaborate feedback on?:
+
+to refactor the code to make it short and sweet. 
+
+*/
+
 var userName = "";
 var gameMode = "waiting for username";
 var things = ["stone", "paper", "scissors"];
